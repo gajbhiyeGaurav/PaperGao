@@ -111,3 +111,4 @@ Decide what your BaaS will offer. Common features include:
 Begin with basic authentication + database CRUD, then incrementally add features (file storage, rules, dashboard, etc.). Open source BaaS platforms (Supabase, Parse, Appwrite) are great references.
 
 If you want a minimal working example or code snippets for any module (auth, db, file storage), let me know your preferred language and stack!
+<img width="810" height="583" alt="4ae3bb03-1196-4298-9299-a0a09c4bd41d" src="https://github.com/user-attachments/assets/603efd43-7bf9-40ca-9d08-d03bd830e38d" />
